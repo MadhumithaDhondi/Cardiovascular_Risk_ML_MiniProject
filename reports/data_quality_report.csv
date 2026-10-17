@@ -1,0 +1,17 @@
+Column,Missing_Count,Missing_Percentage,Data_Type
+male,0,0.0,int64
+age,0,0.0,int64
+education,105,2.48,float64
+currentSmoker,0,0.0,int64
+cigsPerDay,29,0.68,float64
+BPMeds,53,1.25,float64
+prevalentStroke,0,0.0,int64
+prevalentHyp,0,0.0,int64
+diabetes,0,0.0,int64
+totChol,50,1.18,float64
+sysBP,0,0.0,float64
+diaBP,0,0.0,float64
+BMI,19,0.45,float64
+heartRate,1,0.02,float64
+glucose,388,9.16,float64
+TenYearCHD,0,0.0,int64
