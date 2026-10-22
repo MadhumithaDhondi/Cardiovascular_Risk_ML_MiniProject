@@ -1,6 +1,6 @@
 # Predicting Cardiovascular Risk using Electronic Health Records
 
-UE24CS352A Machine Learning - Mini-Project | Team `<no.>` | `<names + SRNs>`
+UE24CS352A Machine Learning - Mini-Project | Team `25` | `Madhumitha Dhondi (PES1UG24AM923), Anjali Arun (PES1UG24AM421)`
 
 We predict cardiovascular risk from routine clinical data and compare logistic regression (Ridge / Lasso / Elastic Net),
 Random Forest and XGBoost. Following Nguyen's Stanford CS229 work on EHR-based CVD risk prediction (the original STRIDE EHR
@@ -53,10 +53,6 @@ python src/benchmark/train.py     --dataset cardio
 python src/benchmark/train.py     --dataset framingham
 python src/benchmark/visualize.py --dataset cardio
 python src/benchmark/visualize.py --dataset framingham
-
-# combined write-up (PDF) and slides (PPTX), built from both result folders
-python src/benchmark/make_report.py --names "Name1 (SRN1), Name2 (SRN2)" --team 12
-python src/benchmark/make_slides.py --names "Name1, Name2"
 ```
 
 Add `--fast` to `train.py` for small grids (quick demo). `--synthetic` generates fake data to check the setup only; never report those numbers.
@@ -82,5 +78,5 @@ confusion matrices, feature importance + subgroup AUROC + calibration).
 ## Contributions
 
 - Study B data inspection, quality report, preprocessing and first logistic regression / Random Forest baselines
-  (`src/*.py`): Madhumitha Dhondi
-- Study A (Kaggle), the unified benchmark pipeline (`src/benchmark/`), figures, write-up and slides: `<your name>`
+  (`src/*.py`): Madhumitha Dhondi (PES1UG24AM923) 
+- Study A (Kaggle), the unified benchmark pipeline (`src/benchmark/`), figures, write-up and slides: `Anjali Arun (PES1UG24AM421)`
