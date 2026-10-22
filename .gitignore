@@ -20,3 +20,7 @@ __pycache__/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Study A dataset (download from Kaggle, see data/README.md) and local smoke-test output
+data/raw/cardio_train.csv
+results_smoke/
