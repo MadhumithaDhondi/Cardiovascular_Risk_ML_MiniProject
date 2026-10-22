@@ -79,4 +79,4 @@ confusion matrices, feature importance + subgroup AUROC + calibration).
 
 - Study B data inspection, quality report, preprocessing and first logistic regression / Random Forest baselines
   (`src/*.py`): Madhumitha Dhondi (PES1UG24AM923) 
-- Study A (Kaggle), the unified benchmark pipeline (`src/benchmark/`), figures, write-up and slides: `Anjali Arun (PES1UG24AM421)`
+- Study A (Kaggle), the unified benchmark pipeline (`src/benchmark/`), figures, write-up and slides: Anjali Arun (PES1UG24AM421)
