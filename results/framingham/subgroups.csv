@@ -1,0 +1,6 @@
+model,subgroup,n,auroc
+LogReg (Ridge),Female,494,0.6862981251756393
+LogReg (Ridge),Male,354,0.6871059889676912
+LogReg (Ridge),Age <45,290,0.662483039348711
+LogReg (Ridge),Age 45-54,291,0.7
+LogReg (Ridge),Age 55+,267,0.585129819040126
