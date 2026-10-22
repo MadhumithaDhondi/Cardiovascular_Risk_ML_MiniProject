@@ -1,0 +1,19 @@
+{
+  "dataset": "framingham",
+  "study": "Study B",
+  "title": "Framingham Heart Study",
+  "pos_label": "10-yr CHD",
+  "n_raw": 4238,
+  "n_clean": 4238,
+  "n_features": 15,
+  "n_train": 3390,
+  "n_test": 848,
+  "positive_rate": 0.1519584709768759,
+  "n_missing_rows": 582,
+  "class_weighting": true,
+  "synthetic": false,
+  "xgboost": true,
+  "cv_folds": 10,
+  "male_rate": 0.188565145684442,
+  "female_rate": 0.12443158329888383
+}

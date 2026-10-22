@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "Missing values": 0,
+    "Duplicate rows": 24,
+    "Height outside 120-220 cm": 53,
+    "Weight outside 30-200 kg": 7,
+    "Systolic BP outside 70-250": 229,
+    "Diastolic BP outside 40-200": 1012,
+    "Systolic <= diastolic BP": 1236
+  },
+  "any_flagged": 1409,
+  "n_raw": 70000,
+  "title": "Rows flagged per cleaning rule",
+  "action": "removed"
+}

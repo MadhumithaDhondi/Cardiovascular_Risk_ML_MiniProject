@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "education (missing)": 105,
+    "cigsPerDay (missing)": 29,
+    "BPMeds (missing)": 53,
+    "totChol (missing)": 50,
+    "BMI (missing)": 19,
+    "heartRate (missing)": 1,
+    "glucose (missing)": 388,
+    "Duplicate rows": 0
+  },
+  "any_flagged": 582,
+  "n_raw": 4238,
+  "title": "Rows with missing values, by column",
+  "action": "imputed"
+}

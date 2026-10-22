@@ -1,0 +1,6 @@
+{
+  "model": "LogReg (Ridge)",
+  "mean_predicted": 0.4386886347620267,
+  "observed_rate": 0.15212264150943397,
+  "brier": 0.21134854516581542
+}

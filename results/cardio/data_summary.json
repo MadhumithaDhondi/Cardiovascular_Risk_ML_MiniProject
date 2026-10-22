@@ -1,0 +1,19 @@
+{
+  "dataset": "cardio",
+  "study": "Study A",
+  "title": "Kaggle Cardiovascular Disease",
+  "pos_label": "CVD",
+  "n_raw": 70000,
+  "n_clean": 67941,
+  "n_features": 13,
+  "n_train": 54352,
+  "n_test": 13589,
+  "positive_rate": 0.49729912718388014,
+  "n_missing_rows": 0,
+  "class_weighting": false,
+  "synthetic": false,
+  "xgboost": true,
+  "cv_folds": 10,
+  "male_rate": 0.5009451001806191,
+  "female_rate": 0.49533239679158925
+}

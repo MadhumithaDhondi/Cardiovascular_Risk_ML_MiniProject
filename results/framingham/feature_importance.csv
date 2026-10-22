@@ -1,0 +1,16 @@
+,importance
+diabetes,0.0
+currentSmoker,0.010472463
+prevalentStroke,0.020142352
+BMI,0.021502068
+heartRate,0.021896705
+education,0.028526247
+BPMeds,0.031523053
+totChol,0.033697505
+diaBP,0.0364137
+glucose,0.046307012
+sysBP,0.06530681
+cigsPerDay,0.07374769
+male,0.08152452
+age,0.21163687
+prevalentHyp,0.31730303

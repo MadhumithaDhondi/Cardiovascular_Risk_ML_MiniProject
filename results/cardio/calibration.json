@@ -1,0 +1,6 @@
+{
+  "model": "XGBoost (GBM)",
+  "mean_predicted": 0.5010178089141846,
+  "observed_rate": 0.4973140039738023,
+  "brier": 0.1829797476530075
+}
